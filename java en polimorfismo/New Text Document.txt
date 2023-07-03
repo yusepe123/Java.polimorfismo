@@ -1,0 +1,12 @@
+private < protected < public
+
+
+Correcto. La palabra llave con menor visibilidad es private, después viene protected y después public.
+
+private - solo visible dentro de la clase.
+
+protected - visible dentro de la clase y también para las hijas.
+
+public - visible en todo lugar.
+
+También tenga en cuenta que protected está relacionado con la herencia.
